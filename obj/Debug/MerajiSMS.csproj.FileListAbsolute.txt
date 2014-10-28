@@ -1,0 +1,5 @@
+D:\users\administrator\documents\visual studio 2010\Projects\MerajiSMS\MerajiSMS\bin\MerajiSMS.dll
+D:\users\administrator\documents\visual studio 2010\Projects\MerajiSMS\MerajiSMS\bin\MerajiSMS.pdb
+D:\users\administrator\documents\visual studio 2010\Projects\MerajiSMS\MerajiSMS\obj\Debug\ResolveAssemblyReference.cache
+D:\users\administrator\documents\visual studio 2010\Projects\MerajiSMS\MerajiSMS\obj\Debug\MerajiSMS.dll
+D:\users\administrator\documents\visual studio 2010\Projects\MerajiSMS\MerajiSMS\obj\Debug\MerajiSMS.pdb

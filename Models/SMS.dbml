@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Meraji" Class="SMSDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=79.175.165.203\SQLEXPRESS,9095;Initial Catalog=Meraji;User ID=hiva" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="MerajiConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.SMS" Member="SMs">
+    <Type Name="SM">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="[From]" Member="From" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="[To]" Member="To" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Msg" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Status" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
